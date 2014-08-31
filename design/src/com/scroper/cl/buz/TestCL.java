@@ -4,6 +4,8 @@ import junit.framework.Assert;
 
 import org.junit.Test;
 
+import com.scroper.cl.bean.OperationContext;
+
 public class TestCL {
 
 	@Test

@@ -20,6 +20,7 @@ public class Context {
 	}
 
 	/**
+	 * 状态模式中心
 	 * 处理请求，并设置下一个状态
 	 */
 	public void request() {

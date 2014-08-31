@@ -5,6 +5,7 @@ import junit.framework.Assert;
 import org.junit.Test;
 
 import com.scroper.jdgc.bean.Operation;
+import com.scroper.jdgc.bean.OperationFactory;
 
 public class TestJDGC {
 
